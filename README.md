@@ -1,5 +1,5 @@
 # azeem-rufus.github.io
-Hello Everyone! My name is Azeem Rufus and I'm a security engineering. Currently, I make educational content but am open to new opportunities.
+Hello Everyone! My name is Azeem Rufus and I'm a security engineer. Currently, I make educational content but am open to new opportunities.
 My website is still a work in progress, will start linking my personal projects here in the future :)
 ![profile picture](profilepic.jpg)
 
